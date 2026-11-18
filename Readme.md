@@ -51,7 +51,8 @@ Ranked by Batting Clutch Index (higher is better, above 1.00 means better than t
 
 SR dip is 100 - (pressure SR / non-pressure SR) x 100, so a negative dip means the batter scored faster under pressure.
 
-![Screenshot](Screenshot%202026-11-18%20134506.png)
+![Top 10 Batters](Batters.png)
+
 
 
 - Badoni, Rinku Singh and Miller score faster under pressure than in ordinary innings. Tim David is essentially flat.
@@ -78,8 +79,8 @@ Ranked by Bowling Clutch Index (lower is better), ties broken by average pressur
 | 10 | Rahul Chahar | 16 | 8.32 | 8.00 | -4.00% | 0.63 | -0.69% | 0.88 |
 
 Econ change is 100 - (pressure economy / non-pressure economy) x 100, so a **negative** value means the bowler conceded **more** under pressure. This is the opposite sign meaning from the batting table.
+![Top 10 Bowlers](Bowlers.png)
 
-![Screenshot](Screenshot%202026-11-18%20135446.png)
 
 
 - All ten bowlers concede more under pressure than normally. That is expected when the rest of the attack is leaking more than 9.50 RPO. The ranking rewards who concedes least in those situations, not who changes least.
